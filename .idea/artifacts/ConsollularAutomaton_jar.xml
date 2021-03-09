@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsollularAutomaton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsollularAutomaton_jar</output-path>
+    <root id="archive" name="ConsollularAutomaton.jar">
+      <element id="module-output" name="ConsollularAutomaton" />
+    </root>
+  </artifact>
+</component>
